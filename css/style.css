@@ -11,8 +11,11 @@ h1{
 }
 
 h4{
-    color: gray;
+    /* color: white; */
     clear: right;
+}
+.item3,.item2,.item1{
+    background: #f4f4f4;
 }
 .item1 h3{
     float: right;
